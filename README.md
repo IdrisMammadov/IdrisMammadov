@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/idris-mammadov-61b351236/](https://www.linkedin.com/in/idris-mammadov-61b351236/)
 
-- ⚡ Fun fact **I am a passionate**
+- ⚡ Fun fact **I am a programmer ahaha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
