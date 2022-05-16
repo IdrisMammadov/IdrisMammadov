@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Idris Mammadov</h1>
 <h3 align="center">I am a Junior student and I am working on some programming projects</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIXiA955nXXUIyfWiijcoMvGCbF5jv6S4BA&usqp=CAU">
-<a href="https://app.daily.dev/IDRISMAMMADOV"><img src="https://api.daily.dev/devcards/7bf80a6b67184ae5b6138c74fcd92efa.png?r=qxi" width="400" alt="Idris Mammadov's Dev Card"/></a>
+<a href="https://app.daily.dev/IDRISMAMMADOV"><img width="400" src="https://api.daily.dev/devcards/7bf80a6b67184ae5b6138c74fcd92efa.png?r=qxi" width="400" alt="Idris Mammadov's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idrismammadov&label=Profile%20views&color=0e75b6&style=flat" alt="idrismammadov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/idrismammadov" target="blank"><img src="https://img.shields.io/twitter/follow/idrismammadov?logo=twitter&style=for-the-badge" alt="idrismammadov" /></a> </p>
